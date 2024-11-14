@@ -41,7 +41,7 @@ The project is divided into two main parts:
 
 1. Clone this repository:
    ```bash
-   git clone https://github.com/yourusername/GameUR-Database-Project.git
+   git clone https://github.com/RicoRF/SQLProject.git
    cd GameUR-Database-Project
    ```
 
